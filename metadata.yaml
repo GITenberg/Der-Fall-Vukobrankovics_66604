@@ -1,5 +1,8 @@
 _repo: Der-Fall-Vukobrankovics_66604
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66604-h/images/cover.jpg
 creator:
   author:
     agent_name: Weiss, Ernst
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36361
     wikipedia: https://de.wikipedia.org/wiki/Rudolf_Leonhard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66604#Der-Fall-Vukobrankovics
 gutenberg_issued: '2021-10-24'
 identifiers:
   gutenberg: '66604'
